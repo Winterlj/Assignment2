@@ -1,0 +1,3 @@
+The Console System is a simple console-based application written in C# that simulates a user authentication and provides a menu-driven system for managing a list of names. The system allows users to log in, perform various operations on the list of names, and log out.
+I used a range of variables, classes and inputs in order to write this code. Using VS code was a learning curve as I had not used the software much. Though it was forgiving it took some time to adjust to the lay out and tools available. 
+If I was to re-do this assignment I would spend more time on my array sort. This took me a while to figure out and with more experience I feel I could have done it in a more efficient way. 
